@@ -1,0 +1,7 @@
+name = Bakery
+description = Handles custom user login tasks for Cameron's Bakery.
+package = Cameron Modules
+core = 7.x
+files[] = bakery.module
+files[] = bakery.test
+dependencies[] = simpletest
